@@ -80,7 +80,7 @@ plt.show()
 ```
 
 ## Output:
-
+https://github.com/KRAGAPRIYAN/BLENDED_LEARNING_Implementation-of-Decision-Tree-Model-for-Tumor-Classification/raw/main/Screenshot%202026-03-11%20091954.png
 
 
 ## Result:
